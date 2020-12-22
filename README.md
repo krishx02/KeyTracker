@@ -14,3 +14,4 @@ I will most likely use a lot of online resources as there is a lot of things I a
 First I am going to try and develop the program within VSCode t
 Ten develop a working UI, as I think that might be the most difficult part for me to accomplish
 
+As of 12/22/2020 (I know its been a day) I am putting this project on hold. I looked into Roan's KPS software and honestly the things that he is doing is too complex for me to understand at the moment, but I will definitely work on this project sometime in the future.
